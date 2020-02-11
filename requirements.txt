@@ -11,7 +11,7 @@ CodeIntel==2.0.0
 colorama==0.3.9
 confusable-homoglyphs==3.0.0
 dj-database-url==0.5.0
-Django==2.1
+Django==2.2.10
 django-baker==0.22
 django-crispy-forms==1.7.2
 django-debug-toolbar==1.9.1
