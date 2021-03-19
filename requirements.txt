@@ -21,7 +21,7 @@ django-heroku==0.3.1
 django-queryset-csv==1.0.1
 django-reversion==2.0.13
 djangoajax==3.0.3
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 drf-generators==0.3.0
 esprima==4.0.0.dev12
 Faker==0.9.1
