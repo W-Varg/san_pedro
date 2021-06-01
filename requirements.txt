@@ -55,7 +55,7 @@ text-unidecode==1.2
 typed-ast==1.1.0
 typing==3.6.6
 unicodecsv==0.14.1
-urllib3==1.22
+urllib3==1.26.5
 virtualenv==16.0.0
 virtualenv-clone==0.3.0
 whitenoise==4.0
